@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "830756650918",
+    "firebase_url": "https://fem-in-need.firebaseio.com",
+    "project_id": "fem-in-need",
+    "storage_bucket": "fem-in-need.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830756650918:android:9c77a52ce8512300",
+        "android_client_info": {
+          "package_name": "com.example.fem_in_need"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830756650918-g00d8iepevc9uuq8crdpjkgmjjhthai3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fem_in_need",
+            "certificate_hash": "21d55020f3d27f5b13d5f3e811b57703338b77de"
+          }
+        },
+        {
+          "client_id": "830756650918-i77inahirvqcsmb1den73cvkmcaopfqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ83bJCeG5MignHcuwPBAarbgxQ0PCwxc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830756650918-i77inahirvqcsmb1den73cvkmcaopfqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
